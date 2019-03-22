@@ -1,0 +1,12 @@
+{
+  "name": "react-scroll-machine",
+  "version": "1.0.0",
+  "description": "State machine for a vertical scrolling container",
+  "main": "index.js",
+  "repository": "https://github.com/jasondippel/react-scroll-machine.git",
+  "author": "jasondippel <dippelj12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "publish": "npm publish"
+  }
+}
